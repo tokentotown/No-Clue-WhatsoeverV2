@@ -1,2 +1,2 @@
-[Clickable Text](https://nepu.io)
-[Clickable Text](https://yesm-math.org)
+[Nepu Nero](https://nepu.io)
+[Yesm Yahweh](https://yesm-math.org)
